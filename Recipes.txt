@@ -6,6 +6,7 @@ Kheer
 Pastha
 Chicken fry
 
-
+Beans
+Pizza
 
 Thankyou
